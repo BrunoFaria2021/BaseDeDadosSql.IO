@@ -16,13 +16,9 @@ Uso do Docker para criar e gerenciar contêineres de banco de dados SQL Server.
 Ao finalizar este curso, me senti preparado para trabalhar com banco de dados SQL Server e usar ferramentas como Azure Data Studio e Docker para gerenciar meus bancos de dados. Além disso, também me sinto preparado para continuar meus estudos em outros tópicos avançados de banco de dados SQL Server.
 
 ## Tecnologias e versões utilizadas
-✔️   C#
-✔️   Visual Studio Code (Versão mais recente disponível)
-* CSharp <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+✔️  <img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
-## Projetos do curso
-No decorrer do curso, os códigos de exemplo têm os contextos:
-✔️   Tratamento de pagamentos
-✔️   Reserva de assentos em um evento
-✔️   Notificações
-✔️   Conteúdos de um site educacional
+
+✔️  <img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" />
+
+✔️ <img lign="center" alt="Rafa-Csharp" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
