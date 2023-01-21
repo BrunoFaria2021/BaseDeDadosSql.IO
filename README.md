@@ -1,33 +1,19 @@
-# 👨‍💻💻 CursoDePOO Fundamentos da Orientação a Objetos
+# 👨‍💻💻 Meu Aprendizado em Fundamentos do SQL Server
 
-Aprendi neste curso o paradigma de Programação Orientada à Objetos, de forma direta e objetiva. 
+Este curso me proporcionou uma introdução completa ao gerenciamento de banco de dados SQL Server. Aprendi sobre conceitos fundamentais como criação de tabelas, inserção, atualização e deleção de dados, bem como consultas avançadas usando JOIN e sub-consultas.
 
-O P.O.O. (ou OOP, ) é o paradigma mais utilizado por programadores atualmente. Dominar os conceitos de POO é essencial para construir uma carreira sólida na área de programação.
+Além disso, também tive a oportunidade de aprender sobre como gerenciar banco de dados usando o Azure Data Studio e o Docker. Aprendi como usar o Azure Data Studio, uma ferramenta de gerenciamento de banco de dados multiplataforma, para gerenciar meus bancos de dados SQL Server, Azure SQL Database e Azure Synapse Analytics (anteriormente SQL DW) em Windows, Mac e Linux. Também aprendi como usar o Docker para criar e gerenciar contêineres de banco de dados SQL Server.
 
-Este curso te apresenta toda a teoria e a prática necessária para uma boa aplicação do OOP em projetos reais.
+Este curso foi muito útil para mim como iniciante e desenvolvedor, pois me permitiu adquirir as habilidades necessárias para trabalhar com banco de dados SQL Server. As aulas teóricas e práticas foram muito bem elaboradas e me ajudaram a compreender melhor os conceitos.
 
-Os conceitos aprendidos neste curso podem ser utilizados em outras linguagens de programação.
+Este curso foi ministrado pela plataforma Balta.IO e foi composto por seguintes tópicos:
 
-## Neste curso de Orientação à Objetos (OOP) você vai...
-✔️   Aprender o paradigma de programação OOP (Object-Oriented Programming)
-✔️   Aprender a aplicar conceitos de orientação à objetos utilizando C#
-✔️   Aprender sobre Classes, Objetos e Interfaces
-✔️   Aprender sobre Abstração
-✔️  Aprender sobre Encapsulamento, Herança e Polimorfismo
-✔️   Aprender sobre tipos complexos
-✔️   Aprender sobre propriedades e métodos
-✔️   Aprender modificadores de acesso
-✔️  Aprender sobre Using e Dispose no C#
-✔️  Aprender sobre classes estáticas (static class) e seladas (sealed class)
-✔️  Aprender classes parciais no C# (partial class)
-✔️ Aprender a criar classes concretas e classes abstratas
-✔️   Converter tipos através de upcast e downcast
-✔️  Comparar objetos
-✔️   Aprender a utilizar o conceito de delegates (métodos delegate)
-✔️  Aprender a gerar eventos e a tratar eventos  (métodos event)
-✔️  Aprender a utilizar Generics
-✔️   Aprender conceitos avançados de listas com IEnumerable e IList
-
+Instalação e configuração do SQL Server e Azure Data Studio
+Criação de tabelas e manipulação de dados
+Consultas básicas e avançadas usando SELECT, FROM, WHERE e JOIN
+Gerenciamento de transações e backups
+Uso do Docker para criar e gerenciar contêineres de banco de dados SQL Server.
+Ao finalizar este curso, me senti preparado para trabalhar com banco de dados SQL Server e usar ferramentas como Azure Data Studio e Docker para gerenciar meus bancos de dados. Além disso, também me sinto preparado para continuar meus estudos em outros tópicos avançados de banco de dados SQL Server.
 
 ## Tecnologias e versões utilizadas
 ✔️   C#
