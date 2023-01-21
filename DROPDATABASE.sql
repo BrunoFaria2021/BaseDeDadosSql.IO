@@ -8,3 +8,4 @@ WHERE database_id  = db_id('NomeDoBanco')
 EXEC(@kill);
 
 DROP DATABASE [NomeDoBanco]
+
